@@ -1,14 +1,15 @@
 # 📚 LeetCode Review List
-> Generated on Sunday, February 23, 2025
+> Generated on Monday, February 24, 2025
 
 ## 📊 Status
-- Total problems: **16**
-- Overdue: **10**
-- Today: **6**
+- Total problems: **25**
+- Overdue: **11**
+- Today: **14**
 
 ## ⏰ Overdue Problems
 _These problems are overdue and should be reviewed as soon as possible_
 
+- [ ] 19.Remove Nth Node From End of List.py ⚠️
 - [ ] 21.Merge Two Sorted Lists.py ⚠️
 - [ ] 23.Merge k Sorted Lists.py ⚠️
 - [ ] 25.Reverse Nodes in k-Group.py ⚠️
@@ -24,10 +25,18 @@ _These problems are overdue and should be reviewed as soon as possible_
 _Problems scheduled for review today_
 
 - [ ] 2.Add Two Numbers.py
-- [ ] 19.Remove Nth Node From End of List.py
+- [ ] 5.Longest Palindromic Substring.py
+- [ ] 26.Remove Duplicates from Sorted Array.py
+- [ ] 27.Remove Element.py
 - [ ] 82.Remove Duplicates from Sorted List II.py
+- [ ] 83.Remove Duplicates from Sorted List.py
+- [ ] 167.Two Sum II - Input Array Is Sorted.py
+- [ ] 234.Palindrome Linked List.py
+- [ ] 283.Move Zeroes.py
+- [ ] 344.Reverse String.py
 - [ ] 373.Find K Pairs with Smallest Sums.py
 - [ ] 378.Kth Smallest Element in a Sorted Matrix.py
+- [ ] 445.Add Two Numbers II.py
 - [ ] Problem 908
 
 ---
